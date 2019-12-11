@@ -8,12 +8,10 @@
 * Resources
 
 ## Introduction
-In this project you can search for any movies or tv shows then you can find all the data related to that movie as shown below .
+In this project you can search for any movies or tv shows as shown below then you can find all the data related to that movie (Genre, Poster, Rated..etc) .
 
 
-
-![displayMovie](https://user-images.githubusercontent.com/56266230/70592245-26794380-1bea-11ea-9d2c-6da0d602c98c.jpg)
-
+![search](https://user-images.githubusercontent.com/56266230/70592563-4fe69f00-1beb-11ea-9f22-a8650e56ef34.jpg)
 
 
 ## Usage

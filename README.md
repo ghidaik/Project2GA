@@ -10,6 +10,12 @@
 ## Introduction
 In this project you can search for any movies or tv shows then you can find all the data related to that movie as shown below .
 
+
+
+![displayMovie](https://user-images.githubusercontent.com/56266230/70592245-26794380-1bea-11ea-9d2c-6da0d602c98c.jpg)
+
+
+
 ## Usage
 *	**jQuery** : Is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation.To setup, your code with jQuery library put this code in the <head> of HTML page.
   

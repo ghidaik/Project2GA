@@ -56,7 +56,7 @@ function onSuccess (response){
     
          <img src="${movie.Poster}">
          <h5>${movie.Title}<h5>
-        <a onclick="movieSelected('${movie.imdbID}')"class="btn btn-outline-info" href="#"> More Details.. </a>                        >
+        <a onclick="movieSelected('${movie.imdbID}')"class="btn btn-outline-info" href="#"> More Details.. </a> 
            
         </div>
        </div>    

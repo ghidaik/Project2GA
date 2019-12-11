@@ -1,0 +1,151 @@
+input[type=text] {
+    
+    width: 40%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+  
+   
+}
+input[ placeholder="Search.."]{
+width: 500px;
+color:rgba(0, 0, 0, 0.8);
+font-size: 20px;
+border-radius: 10px;
+border:none;
+}
+
+.header{
+height: 80vh;
+background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)),url('Movies.jpg');
+background-size: cover;
+background-position: top;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: sans-serif;
+
+}
+
+h1{
+ 
+  text-align: center;
+  color: rgb(160, 160, 160);
+  margin-bottom: 80px;
+  margin-top: 50px;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: bold;
+  letter-spacing: 2px;
+  
+}
+
+
+.search-field {
+  height: 50px;
+  border-radius: 10px;  
+  font-size: 10mm;
+}
+
+
+.search-btn{
+font-size: 20px;
+font-weight: bold;
+color: ivory;
+height: 50px;
+width: 150px;
+background: #f44336;
+border: none;
+border-radius: 10px;
+
+}
+
+
+.search-btn:hover{
+ 
+ background: #bb0d00;
+ cursor: s-resize;
+}
+
+
+.form-box{
+
+  background: rgba(255, 255, 255, 0.397);
+  padding: 30px 20px;
+  border-radius: 10px;
+}
+
+
+#allMovies .col-md-3 img {
+
+  height: 260px;
+  margin: auto;
+  width: 100%;
+  padding: auto;
+  
+}
+
+
+#allMovies .col-md-3 .well{
+
+  height: 300px;
+
+  
+}
+
+
+#allMovies jumbotron {
+
+height: 80px;
+width: 300px;
+margin: auto;
+padding: 100px;
+margin-top: 0%;
+}
+
+
+ul{
+
+width: auto;
+height: auto ;
+
+}
+
+.jumbotron{
+
+width: auto;
+height: auto;
+}
+
+.jumbotron-fluid{
+
+background-color:#25252588;
+border: none;
+border-radius: 7px;
+padding: 7%;
+
+}
+
+p{
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 500;
+
+}
+
+
+.plot{
+
+width: auto;
+font-weight: bolder;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(189, 187, 184);
+}
+
+h3{
+
+  font-weight: bolder;
+  color: #f44336;
+
+}
